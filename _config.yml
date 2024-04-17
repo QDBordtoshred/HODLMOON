@@ -1,9 +1,9 @@
-title: Nighthawk-Pages
-description: "August 2023 to June 2024"
-owner_name: Tirth Thakkar
-github_username: Tirth-Thakkar
-github_repo: "Nighthawk-Pages"
-baseurl: "/Nighthawk-Pages"
+title: HODLMOON
+description: "April 2024"
+owner_name: Quinn Bireley
+github_username: QDBordtoshred
+github_repo: "HODLMOON"
+baseurl: "/HODLMOON"
 remote_theme: jekyll/minima
 minima:
   social_links:
